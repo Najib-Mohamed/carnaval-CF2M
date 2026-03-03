@@ -1,0 +1,13 @@
+* {
+    font-family: "Chewy", system-ui;
+    font-weight: 300;
+    font-style: normal;
+}
+body{
+    /* height: 50vh; */
+    /* width: 100%; */
+    background-image: url("./../media/images/background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
